@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyLoginDesign</string>
+    <string name="loginTitle">Social</string>
+    <string name="WelcomeText">Welcome back, User</string>
+    <string name="loginBtnText">Log in</string>
+    <string name="orContWithText">Or continue with</string>
+    <string name="dontHaveAccountText">Don\'t have an account?</string>
+    <string name="createNowBtnText">Create now</string>
+</resources>

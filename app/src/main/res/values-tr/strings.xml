@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyLoginDesign</string>
+    <string name="loginTitle">Sosyal</string>
+    <string name="WelcomeText">Hoşgeldin, Kullanıcı</string>
+    <string name="loginBtnText">Giriş yap</string>
+    <string name="orContWithText">veya şunlarla devam et</string>
+    <string name="dontHaveAccountText">Hesabın yok mu?</string>
+    <string name="createNowBtnText">Oluştur</string>
+</resources>
